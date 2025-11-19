@@ -1,13 +1,21 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Hi there! I am <s style='red'>Nikolaos</s> Nikos and I am a wireless telecommunications enthousiast with a special taste for performance evaluation and characterization of 4G and 5G wireless systems. My professional and research interests lie in the intersection of physical layer processing and computing systems.
+
+Currently, I work as a 5G NTN Software Engineer at <a href="https://srs.io/">Software Radio Systems (SRS)</a>. Before joining SRS, I was a research assistant in the <a href="https://networks.imdea.org/team/research-groups/netcom-lab/?subsection=team">NETCOM Group</a> at <a href="https://networks.imdea.org/">IMDEA Networks Institute</a>, Madrid, Spain.
+
+I obtained my PhD degree from the <a href="https://www.uc3m.es/telematic-engineering-department/home">Telematics Engineering Department</a> at <a href="https://www.uc3m.es/Home">Universidad Carlos III de Madrid (UC3M)</a> under the supervision of Prof. <a href="https://www.it.uc3m.es/banchs/">Albert Banchs</a> and Prof. <a href="https://www.mgramaglia.com/">Marco Gramaglia</a>. During my PhD, I explored different topics in virtualized Radio Access Networks (vRANs), reinforcement learning and quantum computing. I also carried out an internship in the Aerial Performance team at <a href="https://www.nvidia.com">NVIDIA</a>, California, USA. 
+
+Prior to my PhD studies, I graduated with a diploma (5-year joint Bachelor and MEng) in <a href="https://www.ece.ntua.gr/en">Electrical and Computer Engineering</a> at <a href="https://www.ntua.gr/en/">National Technical University of Athens</a> (2017) and a Master's degree in NFV/SDN for 5G Networks from <a href="https://www.uc3m.es/Home">UC3M</a> (2021).
+
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
@@ -53,4 +61,4 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
