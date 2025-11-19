@@ -8,6 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
+site_theme               : "light"
 # site_theme               : "default" # Currently available options are "default", "air"
 # theme                    : jekyll-theme-minimal
 title                    : "Nikolaos Apostolakis"
