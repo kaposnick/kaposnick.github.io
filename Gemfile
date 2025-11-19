@@ -1,13 +1,13 @@
 source 'https://rubygems.org'
 
 group :jekyll_plugins do
-  gem 'jekyll'
-  gem 'jekyll-feed'
-  gem 'jekyll-sitemap'
-  gem 'jekyll-redirect-from'
-  gem 'jemoji'
+  gem 'jekyll', '~> 3.10.0'
+  gem 'jekyll-feed', '~> 0.17.0'
+  gem 'jekyll-sitemap', '~> 1.4.0'
+  gem 'jekyll-redirect-from', '~> 0.16.0'
+  gem 'jemoji', '~> 0.13.0'
   gem 'webrick', '~> 1.8'
 end
 
-gem 'github-pages'
+gem 'github-pages', '232'
 gem 'connection_pool', '2.5.0'
